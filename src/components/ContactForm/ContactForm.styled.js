@@ -45,6 +45,7 @@ export const Btn = styled.button`
 
   font-weight: 700;
   font-size: 12px;
+
   text-transform: uppercase;
 
   box-shadow: 0px 0px 6px 0px #000000bf;
